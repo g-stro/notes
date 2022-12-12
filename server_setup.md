@@ -13,9 +13,9 @@ Set default info (optional).
 ```
 usermod -aG sudo <username>
 ```
--a, --append
+- -a, --append
 Add the user to the supplementary group(s). Use only with the -G option.
--G, --groups
+- -G, --groups
 A list of supplementary groups which the user is also a member of.
 
 ## Create authentication key pair
